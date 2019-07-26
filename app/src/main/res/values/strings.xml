@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name"> QuizApp</string>
+    <string name="menu_action_setting">Setting</string>
+</resources>
